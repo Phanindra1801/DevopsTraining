@@ -1,0 +1,11 @@
+Bin_ID,Zone,Daily_Waste_KG,Recycled_Waste_KG,Bin_Fill_Percent,Collection_Delay_Minutes
+B201,North,120,45,75,10
+B202,South,180,60,90,25
+B203,East,95,50,55,0
+B204,West,220,70,98,35
+B205,Central,150,80,80,15
+B206,North,140,65,70,5
+B207,South,85,40,45,0
+B208,East,200,55,95,30
+B209,West,110,60,60,8
+B210,Central,170,90,85,20
