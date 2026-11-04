@@ -1,0 +1,25 @@
+CUSTOMER_ID,CUSTOMER_NAME,CUSTOMER_TYPE,CITY,CONNECTION_TYPE,EMAIL
+C001,Arjun Kumar,Residential,Chennai,Single Phase,arjun@example.com
+C002,Priya Sharma,Commercial,Bengaluru,Three Phase,priya@example.com
+C003,Kiran Reddy,Industrial,Hyderabad,Three Phase,kiran@example.com
+C004,Meera Nair,Residential,Kochi,Single Phase,meera@example.com
+C005,Vikram Singh,Commercial,Pune,Three Phase,vikram@example.com
+C006,Ananya Rao,Residential,Chennai,Single Phase,ananya@example.com
+C007,Rahul Das,Agricultural,Vijayawada,Three Phase,rahul@example.com
+C008,Sneha Iyer,,Coimbatore,Single Phase,sneha@example.com
+C009,Manoj Gupta,Commercial,Mumbai,Three Phase,manoj@example.com
+C010,Divya Menon,Residential,Kochi,Single Phase,divya@example.com
+C011,Suresh Babu,Industrial,Visakhapatnam,Three Phase,suresh@example.com
+C012,Pooja Verma,Commercial,Delhi,Three Phase,pooja@example.com
+C013,Nikhil Jain,   ,Jaipur,Single Phase,nikhil@example.com
+C014,Lakshmi Devi,Agricultural,Guntur,Three Phase,lakshmi@example.com
+C015,Amit Shah,Commercial,Ahmedabad,Three Phase,amit@example.com
+C016,Keerthi Raju,Residential,Hyderabad,Single Phase,keerthi@example.com
+C017,Farhan Ali,Commercial,Chennai,Three Phase,farhan@example.com
+C018,Rohit Patil,Industrial,Pune,Three Phase,rohit@example.com
+C019,Sanjana Bose,Residential,Kolkata,Single Phase,sanjana@example.com
+C020,Harish Rao,Agricultural,Mysuru,Three Phase,harish@example.com
+C021,Neha Kapoor,Residential,Mumbai,Single Phase,neha@example.com
+C022,Gopal Krishna,Commercial,Vijayawada,Three Phase,gopal@example.com
+C023,Ishita Roy,Residential,Kolkata,Single Phase,ishita@example.com
+C024,David Thomas,Commercial,Kochi,Three Phase,david@example.com
