@@ -1,0 +1,147 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,City,Quantity,Unit_Price,Unit_Cost,Discount_Percent,Payment_Method
+ORD1001,21-05-2026,Ananya Patel,Headphones,Accessories,North,Chandigarh,5,2200,1100,0,UPI
+ORD1002,16-01-2026,Kabir Bose,Keyboard,Accessories,West,Mumbai,5,1500,700,0.05,Cash
+ORD1003,18-08-2026,Sara Khan,Laptop,Electronics,West,Mumbai,3,52000,39000,0.05,Net Banking
+ORD1003,18-08-2026,Sara Khan,Headphones,Accessories,West,Mumbai,2,2200,1100,0.1,Net Banking
+ORD1004,19-02-2026,Ananya Patel,Office Chair,Furniture,North,Jaipur,4,7800,5200,0.2,UPI
+ORD1004,19-02-2026,Ananya Patel,Notebook Pack,Stationery,North,Jaipur,1,320,140,0.15,UPI
+ORD1005,05-07-2026,Ishaan Kumar,Backpack,Lifestyle,Central,Indore,1,1800,900,0.05,Credit Card
+ORD1005,05-07-2026,Ishaan Kumar,Smartphone,Electronics,Central,Indore,1,24000,17500,0.15,Credit Card
+ORD1006,06-07-2026,Aditya Das,Office Chair,Furniture,West,Ahmedabad,1,7800,5200,0.2,Debit Card
+ORD1007,06-05-2026,Meera Nair,Desk,Furniture,Central,Nagpur,3,12500,8500,0,Cash
+ORD1008,25-07-2026,Saanvi Gupta,Keyboard,Accessories,North,Jaipur,4,1500,700,0.15,Debit Card
+ORD1009,13-03-2026,Rohan Shah,Printer,Electronics,South,Hyderabad,5,9800,7100,0.15,Debit Card
+ORD1010,23-04-2026,Kabir Bose,Headphones,Accessories,West,Pune,2,2200,1100,0.05,UPI
+ORD1010,23-04-2026,Kabir Bose,Printer,Electronics,West,Pune,4,9800,7100,0.2,UPI
+ORD1010,23-04-2026,Kabir Bose,Monitor,Electronics,West,Pune,1,14500,10200,0.15,UPI
+ORD1011,28-09-2026,Krishna Verma,Printer,Electronics,Central,Indore,5,9800,7100,0.1,UPI
+ORD1012,11-08-2026,Reyansh Joshi,Laptop,Electronics,North,Jaipur,2,52000,39000,0.2,Debit Card
+ORD1013,17-09-2026,Ananya Patel,Headphones,Accessories,East,Guwahati,1,2200,1100,0.2,Cash
+ORD1013,17-09-2026,Ananya Patel,Office Chair,Furniture,East,Guwahati,3,7800,5200,0.15,Cash
+ORD1014,07-06-2026,Aarav Sharma,Keyboard,Accessories,North,Jaipur,4,1500,700,0,UPI
+ORD1015,01-09-2026,Sara Khan,Headphones,Accessories,South,Bengaluru,5,2200,1100,0.05,Net Banking
+ORD1015,01-09-2026,Sara Khan,Mouse,Accessories,South,Bengaluru,3,850,350,0.15,Net Banking
+ORD1015,01-09-2026,Sara Khan,Printer,Electronics,South,Bengaluru,3,9800,7100,0.15,Net Banking
+ORD1016,07-05-2026,Dev Malhotra,Office Chair,Furniture,West,Mumbai,2,7800,5200,0.2,Cash
+ORD1017,31-01-2026,Saanvi Gupta,Laptop,Electronics,North,Delhi,2,52000,39000,0.1,UPI
+ORD1018,20-10-2026,Myra Pillai,Keyboard,Accessories,South,Bengaluru,1,1500,700,0.15,Credit Card
+ORD1018,20-10-2026,Myra Pillai,Monitor,Electronics,South,Bengaluru,3,14500,10200,0.15,Credit Card
+ORD1019,28-01-2026,Ira Kulkarni,Water Bottle,Lifestyle,West,Ahmedabad,3,650,260,0,Net Banking
+ORD1019,28-01-2026,Ira Kulkarni,Smartphone,Electronics,West,Ahmedabad,2,24000,17500,0.05,Net Banking
+ORD1020,13-03-2026,Arjun Singh,Mouse,Accessories,Central,Indore,5,850,350,0,UPI
+ORD1020,13-03-2026,Arjun Singh,Monitor,Electronics,Central,Indore,1,14500,10200,0.2,UPI
+ORD1021,27-03-2026,Aarav Sharma,Monitor,Electronics,North,Delhi,4,14500,10200,0,UPI
+ORD1021,27-03-2026,Aarav Sharma,Keyboard,Accessories,North,Delhi,4,1500,700,0.1,UPI
+ORD1022,12-10-2026,Rohan Shah,Monitor,Electronics,East,Bhubaneswar,1,14500,10200,0.2,Debit Card
+ORD1022,12-10-2026,Rohan Shah,Headphones,Accessories,East,Bhubaneswar,5,2200,1100,0,Debit Card
+ORD1023,27-10-2026,Reyansh Joshi,Printer,Electronics,North,Delhi,2,9800,7100,0,Cash
+ORD1023,27-10-2026,Reyansh Joshi,Headphones,Accessories,North,Delhi,5,2200,1100,0,Cash
+ORD1024,19-10-2026,Saanvi Gupta,Notebook Pack,Stationery,West,Mumbai,4,320,140,0.2,Cash
+ORD1025,14-05-2026,Kabir Bose,Backpack,Lifestyle,Central,Indore,4,1800,900,0.05,Credit Card
+ORD1026,07-02-2026,Kavya Iyer,Notebook Pack,Stationery,West,Pune,5,320,140,0.05,UPI
+ORD1027,28-06-2026,Dev Malhotra,Keyboard,Accessories,East,Kolkata,3,1500,700,0.2,Net Banking
+ORD1027,28-06-2026,Dev Malhotra,Office Chair,Furniture,East,Kolkata,5,7800,5200,0,Net Banking
+ORD1027,28-06-2026,Dev Malhotra,Mouse,Accessories,East,Kolkata,5,850,350,0.1,Net Banking
+ORD1028,01-03-2026,Ananya Patel,Backpack,Lifestyle,South,Hyderabad,2,1800,900,0.1,Debit Card
+ORD1028,01-03-2026,Ananya Patel,Printer,Electronics,South,Hyderabad,2,9800,7100,0.1,Debit Card
+ORD1028,01-03-2026,Ananya Patel,Headphones,Accessories,South,Hyderabad,5,2200,1100,0.15,Debit Card
+ORD1029,05-08-2026,Aditya Das,Laptop,Electronics,North,Delhi,4,52000,39000,0.2,Debit Card
+ORD1029,05-08-2026,Aditya Das,Backpack,Lifestyle,North,Delhi,4,1800,900,0.2,Debit Card
+ORD1029,05-08-2026,Aditya Das,Office Chair,Furniture,North,Delhi,1,7800,5200,0,Debit Card
+ORD1030,09-07-2026,Ishaan Kumar,Headphones,Accessories,South,Chennai,3,2200,1100,0,UPI
+ORD1030,09-07-2026,Ishaan Kumar,Desk,Furniture,South,Chennai,3,12500,8500,0.05,UPI
+ORD1031,14-10-2026,Saanvi Gupta,Desk,Furniture,North,Jaipur,4,12500,8500,0,Credit Card
+ORD1031,14-10-2026,Saanvi Gupta,Notebook Pack,Stationery,North,Jaipur,2,320,140,0.1,Credit Card
+ORD1031,14-10-2026,Saanvi Gupta,Headphones,Accessories,North,Jaipur,4,2200,1100,0.05,Credit Card
+ORD1032,15-07-2026,Aditya Das,Monitor,Electronics,South,Chennai,2,14500,10200,0.05,Debit Card
+ORD1032,15-07-2026,Aditya Das,Keyboard,Accessories,South,Chennai,1,1500,700,0.05,Debit Card
+ORD1032,15-07-2026,Aditya Das,Water Bottle,Lifestyle,South,Chennai,4,650,260,0.1,Debit Card
+ORD1033,29-06-2026,Aditya Das,Desk,Furniture,North,Jaipur,1,12500,8500,0.1,Debit Card
+ORD1033,29-06-2026,Aditya Das,Water Bottle,Lifestyle,North,Jaipur,2,650,260,0.2,Debit Card
+ORD1034,11-08-2026,Aditya Das,Office Chair,Furniture,North,Delhi,1,7800,5200,0.15,Cash
+ORD1035,23-01-2026,Kabir Bose,Laptop,Electronics,South,Hyderabad,4,52000,39000,0,Credit Card
+ORD1035,23-01-2026,Kabir Bose,Printer,Electronics,South,Hyderabad,3,9800,7100,0.2,Credit Card
+ORD1036,03-06-2026,Reyansh Joshi,Water Bottle,Lifestyle,North,Chandigarh,3,650,260,0.2,Net Banking
+ORD1036,03-06-2026,Reyansh Joshi,Desk,Furniture,North,Chandigarh,2,12500,8500,0.05,Net Banking
+ORD1037,31-03-2026,Ira Kulkarni,Mouse,Accessories,West,Ahmedabad,3,850,350,0.05,UPI
+ORD1037,31-03-2026,Ira Kulkarni,Desk,Furniture,West,Ahmedabad,4,12500,8500,0.2,UPI
+ORD1038,15-08-2026,Tara Choudhary,Keyboard,Accessories,East,Bhubaneswar,1,1500,700,0.1,Credit Card
+ORD1038,15-08-2026,Tara Choudhary,Printer,Electronics,East,Bhubaneswar,5,9800,7100,0.2,Credit Card
+ORD1039,08-06-2026,Reyansh Joshi,Keyboard,Accessories,North,Delhi,2,1500,700,0.15,UPI
+ORD1040,01-08-2026,Tara Choudhary,Notebook Pack,Stationery,North,Jaipur,2,320,140,0,Net Banking
+ORD1040,01-08-2026,Tara Choudhary,Keyboard,Accessories,North,Jaipur,1,1500,700,0.15,Net Banking
+ORD1040,01-08-2026,Tara Choudhary,Desk,Furniture,North,Jaipur,2,12500,8500,0.05,Net Banking
+ORD1041,13-10-2026,Dev Malhotra,Smartphone,Electronics,West,Mumbai,5,24000,17500,0.2,Credit Card
+ORD1042,16-09-2026,Tara Choudhary,Printer,Electronics,East,Bhubaneswar,3,9800,7100,0.05,Net Banking
+ORD1042,16-09-2026,Tara Choudhary,Monitor,Electronics,East,Bhubaneswar,3,14500,10200,0.2,Net Banking
+ORD1043,14-08-2026,Myra Pillai,Mouse,Accessories,South,Hyderabad,3,850,350,0.2,Debit Card
+ORD1044,29-04-2026,Ishaan Kumar,Headphones,Accessories,South,Bengaluru,3,2200,1100,0.2,Net Banking
+ORD1044,29-04-2026,Ishaan Kumar,Keyboard,Accessories,South,Bengaluru,4,1500,700,0.15,Net Banking
+ORD1045,19-07-2026,Diya Reddy,Notebook Pack,Stationery,South,Kochi,3,320,140,0.1,Net Banking
+ORD1045,19-07-2026,Diya Reddy,Laptop,Electronics,South,Kochi,4,52000,39000,0.15,Net Banking
+ORD1045,19-07-2026,Diya Reddy,Backpack,Lifestyle,South,Kochi,5,1800,900,0.2,Net Banking
+ORD1046,23-04-2026,Tara Choudhary,Monitor,Electronics,South,Kochi,4,14500,10200,0.05,Net Banking
+ORD1047,21-07-2026,Rohan Shah,Water Bottle,Lifestyle,South,Chennai,4,650,260,0.05,Net Banking
+ORD1047,21-07-2026,Rohan Shah,Laptop,Electronics,South,Chennai,1,52000,39000,0.1,Net Banking
+ORD1048,21-08-2026,Krishna Verma,Desk,Furniture,East,Kolkata,1,12500,8500,0.15,Net Banking
+ORD1049,29-06-2026,Aarav Sharma,Smartphone,Electronics,Central,Bhopal,2,24000,17500,0.05,UPI
+ORD1050,03-05-2026,Aarav Sharma,Water Bottle,Lifestyle,Central,Bhopal,4,650,260,0.1,Cash
+ORD1051,25-03-2026,Aadhya Menon,Smartphone,Electronics,South,Chennai,4,24000,17500,0.15,Cash
+ORD1051,25-03-2026,Aadhya Menon,Notebook Pack,Stationery,South,Chennai,2,320,140,0,Cash
+ORD1051,25-03-2026,Aadhya Menon,Laptop,Electronics,South,Chennai,5,52000,39000,0.05,Cash
+ORD1052,03-03-2026,Ananya Patel,Notebook Pack,Stationery,East,Guwahati,3,320,140,0,Cash
+ORD1052,03-03-2026,Ananya Patel,Laptop,Electronics,East,Guwahati,5,52000,39000,0.1,Cash
+ORD1053,24-02-2026,Aarav Sharma,Office Chair,Furniture,West,Pune,2,7800,5200,0.2,Credit Card
+ORD1053,24-02-2026,Aarav Sharma,Water Bottle,Lifestyle,West,Pune,3,650,260,0.2,Credit Card
+ORD1054,12-08-2026,Sara Khan,Notebook Pack,Stationery,West,Pune,4,320,140,0.05,UPI
+ORD1054,12-08-2026,Sara Khan,Mouse,Accessories,West,Pune,4,850,350,0.2,UPI
+ORD1054,12-08-2026,Sara Khan,Office Chair,Furniture,West,Pune,5,7800,5200,0.15,UPI
+ORD1055,16-06-2026,Reyansh Joshi,Keyboard,Accessories,North,Jaipur,3,1500,700,0.2,Debit Card
+ORD1056,22-09-2026,Aditya Das,Smartphone,Electronics,Central,Bhopal,4,24000,17500,0.15,Cash
+ORD1056,22-09-2026,Aditya Das,Keyboard,Accessories,Central,Bhopal,4,1500,700,0,Cash
+ORD1056,22-09-2026,Aditya Das,Desk,Furniture,Central,Bhopal,1,12500,8500,0.1,Cash
+ORD1057,05-05-2026,Saanvi Gupta,Notebook Pack,Stationery,West,Ahmedabad,5,320,140,0.1,Net Banking
+ORD1058,30-06-2026,Ira Kulkarni,Mouse,Accessories,Central,Indore,2,850,350,0.1,Credit Card
+ORD1058,30-06-2026,Ira Kulkarni,Backpack,Lifestyle,Central,Indore,1,1800,900,0.2,Credit Card
+ORD1059,05-09-2026,Meera Nair,Notebook Pack,Stationery,South,Bengaluru,1,320,140,0.05,Cash
+ORD1060,02-04-2026,Kavya Iyer,Backpack,Lifestyle,South,Hyderabad,1,1800,900,0,Credit Card
+ORD1061,06-03-2026,Sara Khan,Monitor,Electronics,East,Guwahati,4,14500,10200,0.15,Cash
+ORD1061,06-03-2026,Sara Khan,Smartphone,Electronics,East,Guwahati,4,24000,17500,0.1,Cash
+ORD1062,02-09-2026,Meera Nair,Smartphone,Electronics,North,Jaipur,5,24000,17500,0,Net Banking
+ORD1063,13-02-2026,Vihaan Rao,Smartphone,Electronics,South,Hyderabad,2,24000,17500,0.2,Cash
+ORD1063,13-02-2026,Vihaan Rao,Printer,Electronics,South,Hyderabad,4,9800,7100,0.15,Cash
+ORD1063,13-02-2026,Vihaan Rao,Desk,Furniture,South,Hyderabad,4,12500,8500,0.1,Cash
+ORD1064,19-10-2026,Kabir Bose,Notebook Pack,Stationery,West,Pune,1,320,140,0.05,Credit Card
+ORD1064,19-10-2026,Kabir Bose,Smartphone,Electronics,West,Pune,2,24000,17500,0.05,Credit Card
+ORD1065,02-01-2026,Sara Khan,Backpack,Lifestyle,North,Delhi,2,1800,900,0.1,Debit Card
+ORD1065,02-01-2026,Sara Khan,Notebook Pack,Stationery,North,Delhi,3,320,140,0.15,Debit Card
+ORD1066,12-04-2026,Ishaan Kumar,Printer,Electronics,South,Hyderabad,2,9800,7100,0,Credit Card
+ORD1066,12-04-2026,Ishaan Kumar,Keyboard,Accessories,South,Hyderabad,1,1500,700,0.05,Credit Card
+ORD1067,19-10-2026,Kavya Iyer,Monitor,Electronics,Central,Nagpur,4,14500,10200,0.1,Debit Card
+ORD1067,19-10-2026,Kavya Iyer,Smartphone,Electronics,Central,Nagpur,5,24000,17500,0.2,Debit Card
+ORD1067,19-10-2026,Kavya Iyer,Backpack,Lifestyle,Central,Nagpur,4,1800,900,0.15,Debit Card
+ORD1068,10-08-2026,Ishaan Kumar,Notebook Pack,Stationery,Central,Bhopal,5,320,140,0.2,UPI
+ORD1068,10-08-2026,Ishaan Kumar,Mouse,Accessories,Central,Bhopal,1,850,350,0.1,UPI
+ORD1069,29-08-2026,Kabir Bose,Monitor,Electronics,North,Delhi,4,14500,10200,0,Cash
+ORD1069,29-08-2026,Kabir Bose,Mouse,Accessories,North,Delhi,4,850,350,0.1,Cash
+ORD1070,23-02-2026,Ira Kulkarni,Office Chair,Furniture,East,Bhubaneswar,1,7800,5200,0.15,Net Banking
+ORD1070,23-02-2026,Ira Kulkarni,Desk,Furniture,East,Bhubaneswar,1,12500,8500,0.1,Net Banking
+ORD1070,23-02-2026,Ira Kulkarni,Monitor,Electronics,East,Bhubaneswar,3,14500,10200,0.1,Net Banking
+ORD1071,01-01-2026,Ananya Patel,Printer,Electronics,West,Ahmedabad,5,9800,7100,0.1,UPI
+ORD1071,01-01-2026,Ananya Patel,Monitor,Electronics,West,Ahmedabad,5,14500,10200,0.15,UPI
+ORD1072,17-05-2026,Rohan Shah,Mouse,Accessories,North,Delhi,1,850,350,0.2,Net Banking
+ORD1072,17-05-2026,Rohan Shah,Monitor,Electronics,North,Delhi,2,14500,10200,0.05,Net Banking
+ORD1073,10-10-2026,Kavya Iyer,Keyboard,Accessories,Central,Bhopal,2,1500,700,0.15,UPI
+ORD1073,10-10-2026,Kavya Iyer,Smartphone,Electronics,Central,Bhopal,3,24000,17500,0.2,UPI
+ORD1074,30-08-2026,Aditya Das,Printer,Electronics,West,Pune,5,9800,7100,0.2,Net Banking
+ORD1075,01-08-2026,Vihaan Rao,Printer,Electronics,North,Jaipur,3,9800,7100,0.2,UPI
+ORD1076,17-08-2026,Kabir Bose,Office Chair,Furniture,West,Mumbai,4,7800,5200,0.1,Cash
+ORD1076,17-08-2026,Kabir Bose,Backpack,Lifestyle,West,Mumbai,2,1800,900,0.05,Cash
+ORD1077,30-07-2026,Kabir Bose,Backpack,Lifestyle,West,Mumbai,2,1800,900,0.15,Net Banking
+ORD1078,21-02-2026,Diya Reddy,Monitor,Electronics,South,Hyderabad,2,14500,10200,0.15,UPI
+ORD1078,21-02-2026,Diya Reddy,Smartphone,Electronics,South,Hyderabad,2,24000,17500,0,UPI
+ORD1078,21-02-2026,Diya Reddy,Printer,Electronics,South,Hyderabad,4,9800,7100,0.1,UPI
+ORD1079,23-07-2026,Reyansh Joshi,Office Chair,Furniture,Central,Nagpur,4,7800,5200,0.2,Net Banking
+ORD1079,23-07-2026,Reyansh Joshi,Water Bottle,Lifestyle,Central,Nagpur,1,650,260,0.2,Net Banking
+ORD1080,27-04-2026,Ishaan Kumar,Desk,Furniture,South,Hyderabad,2,12500,8500,0.1,UPI
+ORD1080,27-04-2026,Ishaan Kumar,Smartphone,Electronics,South,Hyderabad,1,24000,17500,0,UPI
